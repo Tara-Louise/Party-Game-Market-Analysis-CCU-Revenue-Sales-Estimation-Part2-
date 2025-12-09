@@ -7,12 +7,11 @@ The analysis was created for a commercial pitch to demonstrate market size, perf
 
 The entire analysis (loading data, estimating units & revenue, and generating all 4 charts + dashboard) is contained in:
 
-`party_games_analysis.py`
+party_games_analysis.py
 
 You can run it end-to-end with:
-
-```bash
-python party_games_analysis.py
+bash
+python party_games_analysis.py 
 
 
 
