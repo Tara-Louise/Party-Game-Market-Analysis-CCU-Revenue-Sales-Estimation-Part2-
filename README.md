@@ -53,11 +53,13 @@ Estimated lifetime units
 
 Estimated lifetime revenue (£ millions)
 
-4. Combined 4-Chart Dashboard (Optional)
+# Combined 4-Chart Dashboard (Optional)
 
 File: Party_Game_4up_Dashboard_Final.html
 A single-page dashboard arranging the three charts above plus a summary table.
 Useful for pitch decks and presentations.
+<img width="1258" height="654" alt="image" src="https://github.com/user-attachments/assets/6a9cb15e-e1ed-49f2-8a5a-c2046facab13" />
+
 
 📁 Folder Structure
 │
@@ -72,7 +74,7 @@ Useful for pitch decks and presentations.
 │   └── Revenue_Summary.csv
 └── README.md
 
-📡 Data Sources
+# Data Sources
 
 All analysis is fully traceable and based on publicly accessible Steam data:
 
@@ -88,7 +90,7 @@ Revenue estimation: units × 50% of Steam price
 
 A separate Source of Truth file can be provided with all URLs and raw data used.
 
-📈 Purpose of This Project
+# Purpose of This Project
 
 This analysis was created to:
 
@@ -100,10 +102,10 @@ Support pitch decks and greenlight discussions
 
 Provide transparent, reproducible methodology for forecasting
 
-🛠 Technologies Used
+# Technologies Used
 
 Python, Pandas – Data cleaning and calculations
 
 Plotly – Interactive charts
 
-HTML – Packaging visualisations for sharing and presentatio
+HTML – Packaging visualisations for sharing and presentation
