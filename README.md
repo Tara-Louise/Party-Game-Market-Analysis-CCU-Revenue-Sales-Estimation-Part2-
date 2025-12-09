@@ -3,6 +3,18 @@
 This repository contains a complete data analysis of the Steam premium party-game market, based on CCU activity, estimated unit sales, and estimated lifetime revenue.
 The analysis was created for a commercial pitch to demonstrate market size, performance benchmarks, and commercial potential for new titles in the genre.
 
+## Full Analysis Script
+
+The entire analysis (loading data, estimating units & revenue, and generating all 4 charts + dashboard) is contained in:
+
+`party_games_analysis.py`
+
+You can run it end-to-end with:
+
+```bash
+python party_games_analysis.py
+
+
 # Included Charts
 1. Monthly Peak CCU by Game (Interactive)
 
